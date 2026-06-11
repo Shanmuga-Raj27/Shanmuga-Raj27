@@ -90,10 +90,10 @@ class Shanmugaraj:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/shanmugaraj-d">
+  <a href="https://github.com/Shanmuga-Raj27">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shanmugaraj-d&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/shanmugaraj-d">
+  <a href="https://github.com/Shanmuga-Raj27">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmugaraj-d&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
@@ -111,7 +111,7 @@ class Shanmugaraj:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanmugaraj-d&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanmuga-Raj27&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -119,7 +119,7 @@ class Shanmugaraj:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shanmugaraj-d&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Shanmuga-Raj27&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
@@ -152,9 +152,9 @@ class Shanmugaraj:
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| [🗳️ **NEIC** — National Election Information Companion](https://github.com/shanmugaraj-d) | FastAPI · React · Gemini AI · Firestore · Firebase Auth · Redis · GCP | Multilingual civic AI chatbot for students & elderly citizens; multi-model Gemini routing + Redis caching for faster responses; deployed on GCP |
-| [♻️ **Garbage Classification**](https://github.com/shanmugaraj-d) | FastAPI · React · TensorFlow · EfficientNetV2-B2 · Docker · Hugging Face | 90%+ validation accuracy via transfer learning; real-time image classification; Dockerized and deployed on Hugging Face Spaces |
-| [🏟️ **Google Stadium**](https://github.com/shanmugaraj-d) | FastAPI · React · WebSockets · SQL · Pytest · Render | Role-based platform (admin/vendor/fan) with live chat, real-time gate monitoring, and food ordering; tested with Pytest; deployed on Render |
+| [🗳️ **NEIC** — National Election Information Companion](https://neic-project.web.app/) | FastAPI · React · Gemini AI · Firestore · Firebase Auth · Redis · GCP | Multilingual civic AI chatbot for students & elderly citizens; multi-model Gemini routing + Redis caching for faster responses; deployed on GCP |
+| [♻️ **Garbage Classification**](https://garbage-classification-frontend.netlify.app/) | FastAPI · React · TensorFlow · EfficientNetV2-B2 · Docker · Hugging Face | 90%+ validation accuracy via transfer learning; real-time image classification; Dockerized and deployed on Hugging Face Spaces |
+| [🏟️ **Google Stadium**](https://google-stadium-app.onrender.com/) | FastAPI · React · WebSockets · SQL · Pytest · Render | Role-based platform (admin/vendor/fan) with live chat, real-time gate monitoring, and food ordering; tested with Pytest; deployed on Render |
 
 </div>
 
@@ -205,9 +205,9 @@ class Shanmugaraj:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shanmugaraj-r)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shanmugaraj-d)
-[![Portfolio](https://img.shields.io/badge/Portfolio-70a5fd?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shanmugaraj.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanmugaraj27)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shanmuga-Raj27)
+[![Portfolio](https://img.shields.io/badge/Portfolio-70a5fd?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shanmugaraj-portfolio-eight.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rshanmugaraj11@gmail.com)
 
 </div>
