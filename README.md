@@ -154,7 +154,7 @@ class Shanmugaraj:
 |---------|-------|------------|
 | [🗳️ **NEIC** — National Election Information Companion](https://neic-project.web.app/) | FastAPI · React · Gemini AI · Firestore · Firebase Auth · Redis · GCP | Multilingual civic AI chatbot for students & elderly citizens; multi-model Gemini routing + Redis caching for faster responses; deployed on GCP |
 | [♻️ **Garbage Classification**](https://garbage-classification-frontend.netlify.app/) | FastAPI · React · TensorFlow · EfficientNetV2-B2 · Docker · Hugging Face | 90%+ validation accuracy via transfer learning; real-time image classification; Dockerized and deployed on Hugging Face Spaces |
-| [🏟️ **Google Stadium**](https://google-stadium-app.onrender.com/) | FastAPI · React · WebSockets · SQL · Pytest · Render | Role-based platform (admin/vendor/fan) with live chat, real-time gate monitoring, and food ordering; tested with Pytest; deployed on Render |
+| [🏟️ **Nexus Stadium**](https://google-stadium-app.onrender.com/) | FastAPI · React · WebSockets · SQL · Pytest · Render | Role-based platform (admin/vendor/fan) with live chat, real-time gate monitoring, and food ordering; tested with Pytest; deployed on Render |
 
 </div>
 
