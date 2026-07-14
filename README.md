@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shanmugaraj+Rajkumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python+Developer+%7C+AI%2FML+Engineer+%7C+Full-Stack+Builder&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shanmugaraj+Rajkumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python+Developer+%7C+AI+Application+Developer+%7C+AI+Backend+Developer&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Shanmugaraj+%F0%9F%91%8B;Python+Developer+%7C+AI%2FML+Engineer;Building+AI-Powered+Full-Stack+Apps;FastAPI+%2B+React+%2B+Gemini+API+%F0%9F%94%A5;Open+to+Internships+%26+Roles+in+AI%2FML" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Shanmugaraj+%F0%9F%91%8B;Python+Developer+%7C+AI+Application+Developer;Building+AI-Powered+Full-Stack+Apps;FastAPI+%2B+AI+%2B+Gemini+API+%F0%9F%94%A5;Open+to+Internships+%26+Roles+in+AI%2FML" alt="Typing SVG" />
   </a>
 </div>
 
@@ -26,8 +26,8 @@ class Shanmugaraj:
 
     stack = [
         "Python", "FastAPI", "Flask",
-        "React.js", "TensorFlow", "LangChain",
-        "PostgreSQL", "Docker", "GCP"
+        "REST APIs", "Gemini AI", "LangChain",
+        "MySQL", "Docker", "LLMs"
     ]
 
     currently_learning = [
@@ -51,21 +51,14 @@ class Shanmugaraj:
 
 ### 💬 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### 🧩 Frameworks & Libraries
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
 ### ☁️ Cloud & DevOps
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_Basics-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
@@ -73,7 +66,6 @@ class Shanmugaraj:
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -132,7 +124,6 @@ class Shanmugaraj:
 <br/>
 
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 > ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 > ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
 > ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
