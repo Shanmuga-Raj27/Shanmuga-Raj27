@@ -20,7 +20,7 @@
 class Shanmugaraj:
     name       = "Shanmugaraj Rajkumar"
     location   = "Tiruvannamalai, Tamil Nadu, India 🇮🇳"
-    degree     = "B.Sc. Computer Science (Expected Dec 2026)"
+    degree     = "B.Sc. Computer Science Graduate"
     college    = "Adhiparasakthi College of Arts & Science"
     cgpa       = 7.5
 
