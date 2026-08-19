@@ -171,7 +171,7 @@ class Shanmugaraj:
 
 | Degree | Institution | University | Year | Score |
 |--------|-------------|------------|------|-------|
-| B.Sc. Computer Science | Adhiparasakthi College of Arts & Science | Thiruvalluvar University | Expected Dec 2026 | CGPA: 7.5 / 10 |
+| B.Sc. Computer Science | Adhiparasakthi College of Arts & Science | Thiruvalluvar University | 2023 to 2026 | CGPA: 6.3 / 10 |
 
 </div>
 
