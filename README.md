@@ -158,9 +158,7 @@ class Shanmugaraj:
 | 🏆 | **Google PromptWar Hackathon** | Competed in Google's AI-focused prompt engineering hackathon; demonstrated applied Gemini API skills |
 | 🎓 | **AICTE & Shell Internship** | Selected for sponsored AI/ML Data Analytics internship via Edunet Foundation |
 | 🤖 | **AI/ML Project — 90% Accuracy** | Achieved 90%+ validation accuracy on Garbage Classification model using EfficientNetV2-B2 transfer learning |
-| 🌐 | **3 Live Deployed Projects** | NEIC (GCP), Garbage Classifier (Hugging Face Spaces), Google Stadium (Render) — all production-deployed |
-| 📄 | **GSoC 2026 Proposal** | Authored a GSoC proposal for FireForm (UN OICT) — an offline AI pipeline to map incident reports to agency PDFs using Ollama + FastAPI |
-
+| 🌐 | **4 Live Deployed Projects** | Personal Knowledge Base(AWS EC2), NEIC (Render), Garbage Classifier (Hugging Face Spaces), Nexus Stadium (Render) — all live-deployed |
 </div>
 
 ---
@@ -172,7 +170,6 @@ class Shanmugaraj:
 | Degree | Institution | University | Year | Score |
 |--------|-------------|------------|------|-------|
 | B.Sc. Computer Science | Adhiparasakthi College of Arts & Science | Thiruvalluvar University | 2023 to 2026 | CGPA: 6.3 / 10 |
-|--------|-------------|------------|------|-------|
 | M.Sc. Data Science | Shanmugha Arts, Science, Technology & Research Academy | SASTRA University | 2026 to 2028 | CGPA: |
 
 </div>
