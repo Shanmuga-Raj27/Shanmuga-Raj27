@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shanmugaraj+Rajkumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python+Developer+%7C+AI+Application+Developer+%7C+AI+Backend+Developer&descAlignY=62&descSize=16" width="100%"/>
+[<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shanmugaraj+Rajkumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python+Developer+%7C+AI+Application+Developer+%7C+AI+Backend+Developer&descAlignY=62&descSize=16" width="100%"/>]
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Shanmugaraj+%F0%9F%91%8B;Python+Developer+%7C+AI+Application+Developer;Building+AI-Powered+Full-Stack+Apps;FastAPI+%2B+AI+%2B+Gemini+API+%F0%9F%94%A5;Open+to+Internships+%26+Roles+in+AI%2FML" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Shanmugaraj+%F0%9F%91%8B;Python+Developer+%7C+AI+Application+Developer;Building+AI-Powered+Applications;FastAPI+%2B+AI+%2B+Gemini+API+%F0%9F%94%A5;Open+to+Entry-Level+Backend+%26+AI+Roles" alt="Typing SVG" />
   </a>
 </div>
 
@@ -22,25 +22,19 @@ class Shanmugaraj:
     location   = "Tiruvannamalai, Tamil Nadu, India 🇮🇳"
     degree     = "B.Sc. Computer Science Graduate"
     college    = "Adhiparasakthi College of Arts & Science"
-    cgpa       = 7.5
 
     stack = [
-        "Python", "FastAPI", "Flask",
-        "REST APIs", "Gemini AI", "LangChain",
-        "MySQL", "Docker", "LLMs"
+        "Python", "FastAPI", "REST APIs",
+        "Gemini AI", "RAG", "MySQL", "AWS"
     ]
 
     currently_learning = [
-        "Advanced RAG Pipelines",
-        "LLM Fine-tuning",
-        "System Design",
-        "DSA for Interviews"
+        "Backend Engineering",
+        "Generative AI Applications",
+        "SQL & Testing",
+        "System Design Fundamentals"
     ]
 
-    fun_fact = "I built a civic AI chatbot that explains elections 🗳️"
-
-    def motto(self):
-        return "Build fast. Learn faster. Ship what matters."
 ```
 
 <br clear="right"/>
@@ -53,46 +47,56 @@ class Shanmugaraj:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 🧩 Frameworks & Libraries
+### 🧩 Backend Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-### ☁️ Cloud & DevOps
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT_Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
+### 🤖 Generative AI
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7057FF?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings-4B8BBE?style=flat-square)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-2E8B57?style=flat-square)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### 🔧 Tools
+### 🔧 Tools & Testing
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white)
 
 ---
 
 ## 💼 Work Experience
 
 <details>
-<summary>🏢 <strong>Edunet Foundation (AICTE & Shell)</strong> — AI/ML Data Analytics Intern · Jun 2025 – Jul 2025 · Remote, India</summary>
+<summary>🏢 <strong>Edunet Foundation (AICTE & Shell)</strong> — AI/ML Intern · Jun 2025 – Jul 2025 · Virtual</summary>
 
 <br/>
 
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-> ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-> ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- Completed AI/ML, data analytics, and SDLC training, strengthening Python, debugging, and problem-solving skills.
+- Built an AI-powered **Garbage Classification** application using Python, FastAPI, and Scikit-learn, achieving **90%+ validation accuracy** with EfficientNetV2-B2 transfer learning.
 
-- 🗑️ Built a full-stack **Garbage Classification** platform using React.js, FastAPI, and TensorFlow, achieving **90% model accuracy** via transfer learning on a limited dataset.
-- ⚡ Optimized the prediction API response pipeline, improving system reliability by **~20%** through targeted debugging and performance tuning.
-- 🤝 Contributed to Agile debugging workflows, collaborating on iterative improvements across frontend, backend, and ML model components.
-- 🐳 Dockerized the application and deployed on Hugging Face Spaces for accessible, reproducible inference.
+</details>
+
+<details>
+<summary>🤖 <strong>Google PromptWars Virtual Program</strong> — GenAI Developer · Aug 2026</summary>
+
+<br/>
+
+- Built and submitted verified Generative AI solutions for **Challenges 1 & 2** using prompt engineering and AI-assisted workflows.
 
 </details>
 
@@ -104,10 +108,11 @@ class Shanmugaraj:
 
 | | Achievement | Details |
 |---|-------------|---------|
-| 🏆 | **Google PromptWar Hackathon** | Competed in Google's AI-focused prompt engineering hackathon; demonstrated applied Gemini API skills |
-| 🎓 | **AICTE & Shell Internship** | Selected for sponsored AI/ML Data Analytics internship via Edunet Foundation |
-| 🤖 | **AI/ML Project — 90% Accuracy** | Achieved 90%+ validation accuracy on Garbage Classification model using EfficientNetV2-B2 transfer learning |
-| 🌐 | **4 Live Deployed Projects** | Personal Knowledge Base(AWS EC2), NEIC (Render), Garbage Classifier (Hugging Face Spaces), Nexus Stadium (Render) — all live-deployed |
+| 🏆 | **Google PromptWars Hackathon** | Participated in the virtual program and submitted verified GenAI solutions for Challenges 1 & 2 |
+| 🎓 | **AICTE & Shell Internship** | Completed an AI/ML internship through Edunet Foundation |
+| 🤖 | **AI/ML Project — 90%+ Accuracy** | Achieved 90%+ validation accuracy on Garbage Classification using EfficientNetV2-B2 transfer learning |
+| ☁️ | **AWS AI Practitioner Challenge** | Earned a verified course-completion certificate through Udacity (Accenture), June 2026 |
+
 </div>
 
 ---
@@ -118,8 +123,8 @@ class Shanmugaraj:
 
 | Degree | Institution | University | Year | Score |
 |--------|-------------|------------|------|-------|
-| B.Sc. Computer Science | Adhiparasakthi College of Arts & Science | Thiruvalluvar University | 2023 to 2026 | CGPA: 6.3 / 10 |
-| M.Sc. Data Science | Shanmugha Arts, Science, Technology & Research Academy | SASTRA University | 2026 to 2028 | CGPA: |
+| B.Sc. Computer Science | Adhiparasakthi College of Arts & Science | Thiruvalluvar University | 2023 to 2026 | 6.3 / 10 |
+| M.Sc. Data Science | Shanmugha Arts, Science, Technology & Research Academy | SASTRA University | 2026 to 2028 | Pursuing |
 
 </div>
 
@@ -128,12 +133,11 @@ class Shanmugaraj:
 ## 📚 Currently Learning
 
 ```
-🧠 Advanced RAG   → Multi-vector retrieval, hybrid search, reranking
-🤖 LLM Internals  → Fine-tuning, LoRA, prompt engineering patterns
-🏗️ System Design  → Scalable APIs, caching strategies, microservices
-🧩 DSA            → Data structures, algorithms, interview prep
-☁️ Cloud Depth    → GCP Cloud Run, Pub/Sub, deeper AWS services
-🔗 LangChain/LangGraph → Agents, tool use, memory pipelines
+🐍 Python Backend  → Clean APIs, authentication, testing, and maintainable code
+🗄️ SQL             → Queries, joins, database design, and optimization
+🤖 Generative AI   → RAG, embeddings, prompt engineering, and AI workflows
+🏗️ System Design   → API architecture, caching, and scalability fundamentals
+☁️ AWS             → EC2, S3, and deployment fundamentals
 ```
 
 ---
