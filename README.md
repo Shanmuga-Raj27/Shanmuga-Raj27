@@ -108,9 +108,8 @@ class Shanmugaraj:
 
 | | Achievement | Details |
 |---|-------------|---------|
-| 🏆 | **Google PromptWars Hackathon** | Participated in the virtual program and submitted verified GenAI solutions for Challenges 1 & 2 |
+| 🏆 | **Google PromptWars** | Participated in the virtual program and submitted verified GenAI solutions for Challenges 1 & 2 |
 | 🎓 | **AICTE & Shell Internship** | Completed an AI/ML internship through Edunet Foundation |
-| 🤖 | **AI/ML Project — 90%+ Accuracy** | Achieved 90%+ validation accuracy on Garbage Classification using EfficientNetV2-B2 transfer learning |
 | ☁️ | **AWS AI Practitioner Challenge** | Earned a verified course-completion certificate through Udacity (Accenture), June 2026 |
 
 </div>
